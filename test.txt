@@ -1,2 +1,0 @@
-create a test demo
-this is my first edition of this text.
